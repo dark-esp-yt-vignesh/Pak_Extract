@@ -16,7 +16,7 @@ pkg install git
 ```
 git clone https://github.com/vikkysp310/Pak_Extract.git
 ```
-5. Open DARK_ESP_YT directory and run setup.
+5. Open Pak_Extract directory and run setup.
 ```
 cd Pak_Extract
 chmod +x setup
