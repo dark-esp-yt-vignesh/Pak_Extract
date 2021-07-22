@@ -9,14 +9,14 @@ echo "-----------------------"
 quickbms_dir=$PREFIX/share/quickbms
 
 function redirect {
- echo -e "${LIGHTGREEN}STARTING THEPAK${NOCOLOR}"
+ echo -e "${LIGHTGREEN}STARTING Pak_Extractor${NOCOLOR}"
  echo -ne '#####                     (33%)\r'
  sleep 1
  echo -ne '#############             (66%)\r'
  sleep 1
  echo -ne '#######################   (100%)\r'
  echo -ne '\n'
-bash thepak
+bash Pak_Extractor
 }
 
 function quickbms_check {
