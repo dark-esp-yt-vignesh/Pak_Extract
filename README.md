@@ -1,5 +1,6 @@
 # DARK_ESP_YT
-_TPak_Extractor is a tool created to modify the PUBG Mobile PAK file. This tool is still in the process of being developed and unstable, however, this tool can extract pak files and the results can be read by a text editor._
+•-» ☛ Pak_Extractor is a tool created to modify the PUBG Mobile PAK file.
+•-» ☛ This tool is still in the process of being developed and unstable, however, this tool can extract pak files and the results can be read by a text editor._
 
 ## Installing
 1. Install Termux from PlayStore,
@@ -15,7 +16,7 @@ pkg install git
 ```
 git clone "link"
 ```
-5. Open ThePAK directory and run setup.
+5. Open DARK_ESP_YT directory and run setup.
 ```
 cd DARK_ESP_YT
 chmod +x setup
@@ -27,16 +28,15 @@ bash setup
 1. Run `bash Pak_Extractor`
 2. Select option 1
 3. Select your pak file
-4. And the result will be like this
-![Result](/screenshot/complete_extraction.jpg)
 
 ## Repacking
 1. Run `bash Pak_Extractor`
 2. Select option 2
 3. Select your pak file
-4. And the result will be like this
-![Result](/screenshot/complete_repacking.jpg)
-5. Before and After Repacking
-![Result](/screenshot/beforeafter_repacking.jpg)
 
-### Subscribe My YouTube channel To Get Updated Script https://youtube.com/c/DARKESPYT
+# How To Get Updated Scripts
+•-» ☛ Subscribe
+https://youtube.com/c/DARKESPYT
+
+•-» ☛ Join Here
+https://telegram.me/DARKESPYT
