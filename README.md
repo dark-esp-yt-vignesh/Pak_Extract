@@ -15,7 +15,7 @@ pkg install git
 ```
 4. Clone this repository
 ```
-git clone https://github.com/vikkysp310/Pak_Extract.git
+git clone https://github.com/dark-esp-yt-vignesh/Pak_Extract.git
 ```
 5. Open Pak_Extract directory and run setup.
 ```
